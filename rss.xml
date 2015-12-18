@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RhysC]]></title>
+        <description><![CDATA[RhysC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Dec 2015 00:29:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The grid has landed]]></title>
+            <description><![CDATA[<article><h1>The grid has landed</h1><p>The Grid has landed.</p></article>]]></description>
+            <link>undefinedthe-grid-has-landed/index.html</link>
+            <guid isPermaLink="false">af29a65c-6b7c-4437-a650-d3366f923af4</guid>
+            <pubDate>Fri, 18 Dec 2015 00:29:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
