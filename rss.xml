@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RhysC]]></title>
         <description><![CDATA[RhysC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rhysc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 00:29:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 00:35:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rhysc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The grid has landed]]></title>
             <description><![CDATA[<article><h1>The grid has landed</h1><p>The Grid has landed.</p></article>]]></description>
-            <link>undefinedthe-grid-has-landed/index.html</link>
+            <link>https://thegrid.ai/rhysc/the-grid-has-landed/index.html</link>
             <guid isPermaLink="false">af29a65c-6b7c-4437-a650-d3366f923af4</guid>
-            <pubDate>Fri, 18 Dec 2015 00:29:44 GMT</pubDate>
+            <pubDate>Fri, 18 Dec 2015 00:35:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
