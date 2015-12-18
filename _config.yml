@@ -1,7 +1,7 @@
 name: RhysC
 favicon: null
 layout_spectrum: 0.536781266797334
-typography_spectrum: 0.509712919825688
+typography_spectrum: 0.25355
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9816309181042016
+  brandStrength: 1
   lightness: 0.43819636665284634
   saturation: 0.2582776846829802
   rhythmicContrast: 0.49472027481533587
